@@ -1,0 +1,42 @@
+#a {
+    background-color: gray;
+    width: 700px;
+    height: 700px;
+}
+#b {
+    background-color: brown;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}    
+#c {
+    background-color: blueviolet;
+    width: 150px;
+    height: 150px;
+}
+
+#e {
+    background-color: cornflowerblue;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+}
+
+/* #f {
+    margin: auto 0;
+} */
+
+
+#g {
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
